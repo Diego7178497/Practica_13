@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio1.MainPage">
+
+    <StackLayout Orientation="Horizontal">
+        <BoxView Color="Firebrick" HorizontalOptions="Center"/>
+
+        <BoxView Color="LawnGreen" HorizontalOptions="Center"/>
+
+        <BoxView Color="BlanchedAlmond" HorizontalOptions="Center"/>
+        
+    </StackLayout>
+
+</ContentPage>

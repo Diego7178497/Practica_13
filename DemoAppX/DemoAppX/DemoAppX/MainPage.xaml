@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="DemoAppX.MainPage">
+
+    <StackLayout BackgroundColor="Bisque" Padding="30,30,30,30" Margin="20,20,20,20" Spacing="10" Orientation="Horizontal">
+        <Label BackgroundColor="CadetBlue" Text="StackLayout tiene su conjunto de propiedades Margen, para controlar la posición de representación de StackLayout."/>
+        <Label BackgroundColor="IndianRed" Text="La propiedad Padding se puede configurar para especificar la distancia estre StackLayout y sus elementos secundarios."/>
+        <Label BackgroundColor="MediumAquamarine" Text="La propiedad Espaciado se puede configurar para especificar ña distancia entre vistas en StackLayout."/>
+        
+    </StackLayout>
+    
+</ContentPage>
+ 
